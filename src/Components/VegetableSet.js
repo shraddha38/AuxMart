@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import {  Table } from "semantic-ui-react";
 import Vegetable from "./Vegetable"
-//import Card from "./Card";
+
+import card from "./card";
 class VegetableSet extends Component {
 
   render() {
