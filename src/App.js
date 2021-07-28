@@ -6,13 +6,16 @@ import Footer from './Components/Footer';
 import Header from './Components/Header';
 import Navbar from './Components/Navbar';
 import DairySet from './Components/DairySet';
-import ConfectionarySet from './Components/ConfectionarySet';
+import UtensilSet from './Components/UtensilSet';
+import StationarySet from './Components/StationarySet';
+import ClothingSet from './Components/ClothingSet';
+
 function App() {
   return (
    // <Navbar/>,
 
 
-<ConfectionarySet />
+<ClothingSet/>
 //<Footer />
   );
 }

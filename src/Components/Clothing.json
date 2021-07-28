@@ -1,0 +1,51 @@
+[
+    {
+       "id":1,
+       "title":"Floral Print Paperbag-Waist Culottes",
+       "quantity":"01",
+       "img":"https://www.jiomart.com/images/product/600x750/441111460_pink/floral-print-paperbag-waist-culottes-model-441111460_pink-0-202104061934.jpg",
+       "price":10,
+       "inCart":false,
+       "count":0,
+       "total":0
+    },
+    {
+        "id":2,
+        "title":"Joggers with Side Pockets",
+        "quantity":"01",
+        "img":"https://www.jiomart.com/images/product/600x750/441000813_red/drawstring-joggers-with-side-pockets-model-441000813_red-0-202104070727.jpg",
+        "price":10,
+        "inCart":false,
+        "count":0,
+        "total":0
+     },
+     {
+        "id":3,
+        "title":"Stretch Churidar Leggings",
+        "quantity":"01",
+        "img":"https://www.jiomart.com/images/product/600x750/440535772_maroonburg/churidar-leggings-with-elasticated-waistband-model-440535772_maroonburg-0-202104070104.jpg",
+        "price":80,
+        "inCart":false,
+        "count":0,
+        "total":0
+     },
+     {
+        "id":4,
+        "title":"Sponge Bob Print Night Dress",
+        "quantity":"01",
+        "img":"https://www.jiomart.com/images/product/600x750/441021147_yellow/sponge-bob-print-night-dress-with-drop-shoulders-model-441021147_yellow-0-202010301736.jpg",
+        "price":50,
+        "inCart":false,
+        "count":0,
+        "total":0
+     },
+     {
+        "id":5,
+        "title":"Fit & Flare Dress with Sequinned Panel",
+        "quantity":"01",
+        "img":"https://www.jiomart.com/images/product/600x750/441119634_ltblue/tulle-fit-flare-dress-with-sequined-panel-model-441119634_ltblue-0-202104021355.jpg",
+        "price":60,
+        "inCart":false,
+        "count":0,
+        "total":0
+     }]

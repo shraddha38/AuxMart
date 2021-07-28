@@ -1,0 +1,51 @@
+[
+    {
+       "id":1,
+       "title":"Wax Crayon",
+       "quantity":"01",
+       "img":"https://www.jiomart.com/images/product/420x420/490917063/camlin-extra-long-wax-crayon-with-2-glitter-shades-26-shades-0-20201125.jpg",
+       "price":10,
+       "inCart":false,
+       "count":0,
+       "total":0
+    },
+    {
+        "id":2,
+        "title":"Scholar Geometry Box",
+        "quantity":"01",
+        "img":"https://www.jiomart.com/images/product/420x420/490094816/camlin-scholar-geometry-box-1-pc-0-20201028.jpg",
+        "price":10,
+        "inCart":false,
+        "count":0,
+        "total":0
+     },
+     {
+        "id":3,
+        "title":"Single Line Note Book",
+        "quantity":"01",
+        "img":"https://www.jiomart.com/images/product/420x420/491044429/camlin-240x180-single-line-note-book-180-pgs-0-20200722.jpg",
+        "price":80,
+        "inCart":false,
+        "count":0,
+        "total":0
+     },
+     {
+        "id":4,
+        "title":"Apsara Scholar's Kit",
+        "quantity":"01",
+        "img":"https://www.jiomart.com/images/product/420x420/490548458/apsara-scholar-s-kit-0-20210324.jpg",
+        "price":50,
+        "inCart":false,
+        "count":0,
+        "total":0
+     },
+     {
+        "id":5,
+        "title":"Fevicol MR Squeeze Bottle Glue ",
+        "quantity":"01",
+        "img":"https://www.jiomart.com/images/product/420x420/490012025/fevicol-mr-squeezy-bottle-105-g-0-20200720.jpg",
+        "price":60,
+        "inCart":false,
+        "count":0,
+        "total":0
+     }]
