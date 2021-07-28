@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
+.bar
+{
+    background-color: #444;
+    height: 80px;
+}
+.logo
+{
+    color: white;
+    position: absolute;
+    font-family: 'Yomogi', cursive;
+    font-size: 29px;
+    font-weight: 700;
+    top: 22px;
+    left: 25px;
+    cursor: pointer;
+}
+.bar>ul
+{
+    list-style: none;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bar>ul>li
+{
+    display: flex;
+    color: rgb(255, 255, 255);
+    margin-right: 2em;
+    padding: 1.5rem;
+    display: block;
+    cursor: pointer;
+}
+.bar>ul>li:hover
+{
+    background-color: #666;
+}
