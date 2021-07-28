@@ -12,7 +12,8 @@ class VegetableSet extends Component {
                 return (
                     <div className="col-sm-3">
                     <div className="card mt-4">
-                        <img className="card-img-top" src={obj.img} />
+                            <img className="card-img-top" src={obj.img} class="d-block"
+                              height="170" />
                         <div className="card-body">
                         <p>{obj.title}</p>    
                         <p>{obj.price}</p> 
