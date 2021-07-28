@@ -4,7 +4,7 @@ export const VegetableFruits = [
       title: "Capsicum",
       img: "src/images/Capsicum.jpg",
       price: 50,
-      info: "Fresh from the farms",
+      info: "Fresh frpom the farms .",
       inCart: false,
       count: 0,
       total: 0,
