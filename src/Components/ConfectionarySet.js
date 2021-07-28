@@ -1,15 +1,15 @@
 import React, { Component } from "react";
 import {  Table } from "semantic-ui-react";
-import Vegetable from "./Vegetable"
+import Confectionary from "./Confectionary.json"
 
 //import card from "./card";
-class VegetableSet extends Component {
+class ConfectionarySet extends Component {
 
   render() {
     return(
 
         <div className="row">
-            {Vegetable.map((obj)=>{
+            {Confectionary.map((obj)=>{
                 return (
                     <div className="col-sm-3">
                     <div className="card mt-4">
@@ -18,7 +18,8 @@ class VegetableSet extends Component {
                         <div className="card-body">
                         <p>{obj.title}</p>    
                         <p>{obj.price}</p> 
-                        <p>{obj.info}</p> 
+                        <p>{obj.quantity}</p> 
+                        
                         <button className='btn btn-outline-success'>Order Now</button> 
                         </div>
                     </div>
@@ -30,4 +31,4 @@ class VegetableSet extends Component {
   }
 }
 
-export default VegetableSet;
+export default ConfectionarySet;

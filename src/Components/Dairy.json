@@ -1,0 +1,62 @@
+[
+    {
+       "id":1,
+       "title":"Milk",
+       "quantity":" 1 litre",
+       "img":"https://www.jiomart.com/images/product/original/490010311/amul-taaza-homogenised-toned-long-life-milk-1-l-tetra-pak-0-20210210.jpg",
+       "price":50,
+       "info":"Pure Milk!",
+       "inCart":false,
+       "count":0,
+       "total":0
+    },
+    {
+      "id":2,
+      "title":"Curd",
+      "quantity":" 1/2 Kg",
+      "img":"https://5.imimg.com/data5/CI/RU/BF/SELLER-80635375/amul-masti-dahi-cup-400gm-95745713-500x500.jpg",
+      "price":20,
+      "info":"Fresh Curd",
+      "inCart":false,
+      "count":0,
+      "total":0
+   },
+   {
+      "id":3,
+      "title":"Paneer",
+      "quantity":" 1/2 Kg",
+      "img":"https://5.imimg.com/data5/SELLER/Default/2020/12/RC/RP/LW/65519594/new-paneer4-1kg-front-500x500.jpg",
+      "price":50,
+      "info":"Good quality Paneer",
+      "inCart":false,
+      "count":0,
+      "total":0
+   },
+   {
+      "id":4,
+      "title":"Cheese",
+      "quantity":" 1 Packet",
+      "img":"https://5.imimg.com/data5/YG/TT/MY-19206036/amul-cheese-block-500x500.jpg",
+      "price":120,
+      "info":"Good quality Cheese",
+      "inCart":false,
+      "count":0,
+      "total":0
+   },
+   {
+      "id":5,
+      "title":"Milkmaid",
+      "quantity":" 01",
+      "img":"https://www.milkmaid.in/sites/default/files/2020-08/Rich-Milk-Cake-385x619.jpg",
+      "price":120,
+      "info":"Good quality condensed milk",
+      "inCart":false,
+      "count":0,
+      "total":0
+   }
+  
+  
+  
+  
+  ]
+
