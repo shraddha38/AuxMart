@@ -39,6 +39,26 @@ export const VegetableFruits = [
         count: 0,
         total: 0,
       },
+      {
+        id: 5,
+        title: "Tomato",
+        img: "src/images/Tomato.jpg",
+        price: 30,
+        info: "Fresh from the farms",
+        inCart: false,
+        count: 0,
+        total: 0,
+      },
+      {
+        id: 6,
+        title: "Tomato",
+        img: "src/images/Tomato.jpg",
+        price: 30,
+        info: "Fresh from the farms",
+        inCart: false,
+        count: 0,
+        total: 0,
+      },
 
 
 ]
